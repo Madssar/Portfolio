@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    margin-bottom: 1.5rem;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
+.left{
+    display: flex;
+    flex: 1;
+    justify-content: left;
+    gap: 2rem;
+    align-items: center;
+}
+.logo{
+    margin-left: 2rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar{
+        position: static;
+    }
+}
