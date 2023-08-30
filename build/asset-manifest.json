@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Madssar-portfolio/static/css/main.4eb2b921.css",
+    "main.js": "/Madssar-portfolio/static/js/main.166d932d.js",
+    "static/media/NewsScrapper.m4v": "/Madssar-portfolio/static/media/NewsScrapper.a893658189d2f17e120c.m4v",
+    "static/media/NFTLandingPage.m4v": "/Madssar-portfolio/static/media/NFTLandingPage.e024fd7cc3bf6d03fd06.m4v",
+    "static/media/AdminDashboard.m4v": "/Madssar-portfolio/static/media/AdminDashboard.d8643b2da5fdc91c8338.m4v",
+    "static/media/Madssar-Aftab-CV.pdf": "/Madssar-portfolio/static/media/Madssar-Aftab-CV.4f8d80ff1d655ec7f065.pdf",
+    "static/media/boy.png": "/Madssar-portfolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/glassesemoji.png": "/Madssar-portfolio/static/media/glassesemoji.a08bdab12e8eb56a6874.png",
+    "static/media/js1.png": "/Madssar-portfolio/static/media/js1.8d988f5fea48b09b90da.png",
+    "static/media/thumbup.png": "/Madssar-portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Madssar-portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Madssar-portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/crown.png": "/Madssar-portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Madssar-portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Madssar-portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/react2.png": "/Madssar-portfolio/static/media/react2.4bddc666a61b1b18d8a9.png",
+    "index.html": "/Madssar-portfolio/index.html",
+    "main.4eb2b921.css.map": "/Madssar-portfolio/static/css/main.4eb2b921.css.map",
+    "main.166d932d.js.map": "/Madssar-portfolio/static/js/main.166d932d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eb2b921.css",
+    "static/js/main.166d932d.js"
+  ]
+}
